@@ -27,10 +27,21 @@ body {
     margin-bottom: 30px;
 }
 
-.p {
+.c {
     text-align: center;
     font-size: 30px;
     opacity: 90%;
+}
+
+.l {
+    font-size: 30px;
+    opacity: 90%;
+}
+
+.n {
+    font-size: 30px;
+    color: pink;
+    display: block;
 }
 
 .gray {
