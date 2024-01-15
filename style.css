@@ -1,0 +1,55 @@
+body {
+    background-color: #014d4e;
+    color: white;
+    font-size: 1.25em;
+    margin: 0px;
+}
+
+.main {
+    width: 600px;
+    margin: auto;
+    /* background-color: #014d5e; */
+    min-height: 100vh;
+}
+
+.title {
+    font-family: 'Glass Antiqua', cursive;
+    font-weight: bold;
+    font-size: 66px;
+    text-align: center;
+    color: white;
+    text-shadow: 
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000,
+        3px 3px black;
+    margin-bottom: 30px;
+}
+
+.p {
+    text-align: center;
+    font-size: 30px;
+    opacity: 90%;
+}
+
+.gray {
+    color: RGB(165, 178, 152);
+}
+
+.gold {
+    color: RGB(230, 184, 0);
+}
+
+.blue {
+    color: RGB(65, 105, 225);
+}
+
+.button {
+    border: 1px solid;
+    padding: 5px;
+    border-color: RGB(230, 184, 0);
+    width: 450px;
+    margin: auto;
+    color: white;
+}
